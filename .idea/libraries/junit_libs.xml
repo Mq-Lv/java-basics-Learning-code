@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="junit-libs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../teach/01_JavaSE/Java从入门到精通-JDK17版/06_软件与资料/05-资料/junit-libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../teach/01_JavaSE/Java从入门到精通-JDK17版/06_软件与资料/05-资料/junit-libs" recursive="false" />
+  </library>
+</component>
